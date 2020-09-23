@@ -1,0 +1,9 @@
+Controls:
+
+Left Arrow/Right Arrow: Turn on z axis
+Up Arrow/Down Arrow: Turn on x axis
+</>: Turn on y axis
+A: move away from camera
+Z: move toward camera.
+
+Note: These controls are not 100%, as it seems to change axis orientation from time to time.
